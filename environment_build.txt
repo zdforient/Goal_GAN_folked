@@ -1,0 +1,55 @@
+1. cuda 10.2 installation
+before use the instruction below,
+a. remember change to 10.2 version
+b. change libcudnn to libcudnn8
+
+https://medium.com/@exesse/cuda-10-1-installation-on-ubuntu-18-04-lts-d04f89287130
+
+2. then install other things with the following cmd
+pip3 install -r requirements.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//potential questions and answers
+1. how to use vim?
+$ sudo vi /path/to/filename
+Replace /path/to/filename with the actual file path of the configuration file that you want to edit. When prompted for a password, enter sudo password.
+
+Edit file in Vi editor
+
+Then edit the file using Vim editor. Note that when the editor opens, you enter command mode. Here are the few steps to edit a file in Vim editor:
+
+To edit the file, Press I from keyboard to enter into insert mode, here you can do editing just like the normal editor.
+When done with editing, get out of this mode by pressing Esc. It will return you to normal mode.
+To save the file, type :w in command mode
+To quit the editor, type :q in command mode
+To combine the above actions type :wq to save and quit simultaneously.
