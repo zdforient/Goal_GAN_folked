@@ -32,7 +32,7 @@ The model is trained with an adversarial loss for which the discriminator classi
 
 ## Setup
 
-All code was developed and tested with Python 3.6.3, PyTorch 1.6.0., and PyTorch-Lightning 0.9.0.
+All code was developed and tested with Python 3.6.9, PyTorch 1.7.1., and PyTorch-Lightning 0.9.0.
 
 You can setup a virtual environment and install the required packages by following the instruction in environment_build.txt
 
